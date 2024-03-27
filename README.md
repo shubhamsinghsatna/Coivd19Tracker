@@ -1,3 +1,13 @@
+1. Dashboard Screen
+![WhatsApp Image 2024-03-27 at 2 30 16 PM](https://github.com/shubhamsinghsatna/Coivd19Tracker/assets/61536002/cd5691be-995d-492b-8e33-b45a2e78f5cf)
+
+2. See All Country List
+![WhatsApp Image 2024-03-27 at 2 30 18 PM (1)](https://github.com/shubhamsinghsatna/Coivd19Tracker/assets/61536002/b0ee6087-6c6c-4674-95c9-557e6af3bcff)
+
+3. See Single Country Covid Data
+![WhatsApp Image 2024-03-27 at 2 30 18 PM](https://github.com/shubhamsinghsatna/Coivd19Tracker/assets/61536002/58aa10cf-9922-4f34-8ab5-4f62ce021f69)
+
+
 This is basically android application. My application name is covid-19 Tracker, which tracks the data Globally
 There are 3 sections in my project 
 
